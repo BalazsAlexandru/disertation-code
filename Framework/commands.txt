@@ -1,0 +1,10 @@
+pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121
+
+pip install <- add here the rest of the libraries that are missing
+
+pip install tqdm
+
+pip install segmentation-models-pytorch
+pip install opencv-python
+pip install shapely
+pip install albumentations
